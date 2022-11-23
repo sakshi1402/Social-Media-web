@@ -1,0 +1,8 @@
+https://cloud.mongodb.com/v2/63775a5b72337c46abd7b05d#clusters
+//mongo atlas link to open 
+
+id: Natasha_14022
+password:Abhi19@bhi
+
+
+mongodb+srv://Natasha_14022:Abhi19%40bhi@cluster0.whcwmsb.mongodb.net/?retryWrites=true&w=majority
